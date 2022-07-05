@@ -142,9 +142,12 @@ local p = {
     "Attack Titan",
     "Kokushibo",
     "Ice Queen Esdeath",
+    "Accelerator",
     "Eugeo",
     "Katakuri",
     "Levi",
+    "Astolfo Summer Character",
+    "Diablo",
     "Naruto Six Paths",
     "Genos",
     "Gojo",
@@ -172,7 +175,6 @@ local p = {
     "Killua",
     "Natsu",
     "Sakura",
-    "Accelerator",
     "Deku",
     "Goku",
     "Ichigo",
@@ -191,8 +193,8 @@ local q = {
     "Slime Dimension"
 }
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
-local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule"}
-local t = {"Esper Raid", "Tengoku Raid", "Hirito Raid", "Titan Raid", "Infinity Nojo Raid"}
+local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule", "Gear 5 Fluffy"}
+local t = {"Esper Raid", "Tengoku Raid", "Hirito Raid", "Titan Raid", "Infinity Nojo Raid", "Combat Titan Raid", "Gear 5 Fluffy Raid", "Demon Lord Raid", "Yomiichi Raid", "Christmas Raid"}
 local u = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local v = u:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local w = v:MakeTab({Name = "Main", PremiumOnly = false})
@@ -1145,8 +1147,11 @@ w:AddToggle(
                             "Gilgamesh",
                             "Kokushibo",
                             "Ice Queen Esdeath",
+                            "Accelerator",
                             "Katakuri",
                             "Levi",
+                            "Astolfo Summer Character",
+                            "Diablo",
                             "Naruto Six Paths",
                             "RimuruDemonLord",
                             "KiritoCharacter",
@@ -1173,7 +1178,6 @@ w:AddToggle(
                             "Killua",
                             "Natsu",
                             "Sakura",
-                            "Accelerator",
                             "Deku",
                             "Goku",
                             "Ichigo",
