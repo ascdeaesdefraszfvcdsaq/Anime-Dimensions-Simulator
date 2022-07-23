@@ -193,8 +193,8 @@ local q = {
     "Slime Dimension"
 }
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
-local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule", "Gear 5 Fluffy"}
-local t = {"Esper Raid", "Tengoku Raid", "Hirito Raid", "Titan Raid", "Infinity Nojo Raid", "Combat Titan Raid", "Gear 5 Fluffy Raid", "Demon Lord Raid", "Yomiichi Raid", "Christmas Raid"}
+local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule", "Gear 5 Fluffy Capsule", "Tengu Capsule"}
+local t = {"Esper Raid", "Tengoku Raid", "Hirito Raid", "Titan Raid", "Infinity Nojo Raid", "Combat Titan Raid", "Gear 5 Fluffy Raid", "Demon Lord Raid", "Yomiichi Raid", "Christmas Raid", "Tengu Raid"}
 local u = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 local v = u:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local w = v:MakeTab({Name = "Main", PremiumOnly = false})
