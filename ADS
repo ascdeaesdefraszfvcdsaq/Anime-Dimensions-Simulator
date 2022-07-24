@@ -134,6 +134,7 @@ local p = {
     "Saber Alter Character",
     "Alice",
     "Sung Jin Woo",
+    "Uzui",
     "Infinity Gojo",
     "MilimCharacter (Valentine)",
     "Ryuko",
@@ -1139,6 +1140,7 @@ w:AddToggle(
                         wait()
                         local X = {
                             "Sung Jin Woo",
+				    "Uzui",
                             "MilimCharacter (Valentine)",
                             "Ryuko",
                             "Saber Alter Character",
